@@ -1,2 +1,2 @@
 # dotnet-core-api
-Complete of https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents
+Completed: [Pluralsight - Building Your First API with ASP.NET Core](https://app.pluralsight.com/library/courses/asp-dotnet-core-api-building-first/table-of-contents)
